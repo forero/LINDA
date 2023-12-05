@@ -13,6 +13,7 @@ Aliados Académicos
 * Universidad de Antioquia (Medellín)
 * Universidad Mariana (Pasto)
 * Universidad de los Llanos (Villavicencio)
+* Universidad de Córdoba (Monteria)
 
 Aliados sector público
 * Ministerio de Cultura
