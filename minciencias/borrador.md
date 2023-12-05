@@ -11,7 +11,8 @@ Aliados Académicos
 * Observatorio Astronómico Nacional (Bogotá)
 * Universidad América (Bogotá)
 * Universidad de Antioquia (Medellín)
-* Universidad Mariana (Nariño)
+* Universidad Mariana (Pasto)
+* Universidad de los Llanos (Villavicencio)
 
 Aliados sector público
 * Ministerio de Cultura
