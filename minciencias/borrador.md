@@ -15,6 +15,11 @@ Aliados Académicos
 * Universidad de los Llanos (Villavicencio)
 * Universidad de Córdoba (Monteria)
 
+Aliados Internacionales
+
+* Astro Data Lab (parte del National Optical-Infrared Astronomy Research Laboratory de la National Science Foundation en Estados Unidos)
+* AstroAI (centro dedicado a la Inteligencia Artificial para la astrofísica, parte del Center for Astrophysics | Harvard & Smithsonian en Estados Unidos)
+
 Aliado sector público
 * Ministerio de Cultura
 
