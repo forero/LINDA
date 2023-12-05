@@ -1,6 +1,6 @@
 Título de la propuesta: Laboratorio Interinstitucional de Datos Astronómicos
 
-Monto a ejecutar: 36500 millones de pesos
+Monto a ejecutar: 36500 millones de pesos 
 
 Investigador Principal: Jaime Forero (https://scholar.google.com/citations?user=TLTK6WgAAAAJ)
 
