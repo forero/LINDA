@@ -15,7 +15,7 @@ Aliados Académicos
 * Universidad de los Llanos (Villavicencio)
 * Universidad de Córdoba (Monteria)
 
-Aliados sector público
+Aliado sector público
 * Ministerio de Cultura
 
 Aliado sociedad civil
