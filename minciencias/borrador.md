@@ -1,6 +1,6 @@
 Título de la propuesta: Laboratorio Interinstitucional de Datos Astronómicos
 
-Monto a ejecutar: 35500 millones de pesos
+Monto a ejecutar: 36500 millones de pesos
 
 Entidad Ejecutura: Facultad de Ciencias, Universidad de los Andes
 
