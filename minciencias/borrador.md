@@ -34,7 +34,7 @@ Aliado empresa privada
 Areas Principales
 
 * Ciencia (5 áreas): Solar, Estelar, Exoplanetas, Galaxias, Cosmología
-* Ingeniería Inteligencia Artificial
+* Ingeniería ML/AI
 * Ingeniería de Software
 * Hardware
 * Apropiación Social del Conocimiento.
@@ -45,6 +45,11 @@ Productos principales
 * Cluster de GPU para AI
 * Plataforma de ciencia ciudadana
 * Base de datos para grandes surveys
+
+Condiciones desadas para los proyectos de ciencia
+* Caso cientifico claro.
+* Vínculo directo con observaciones.
+* Se beneficia de uso de ML e AI
   
 
 
