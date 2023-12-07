@@ -40,6 +40,13 @@ Areas Principales
 * Apropiación Social del Conocimiento.
 * Administración.
 
+Productos principales
+
+* Cluster de GPU para AI
+* Plataforma de ciencia ciudadana
+* Base de datos para grandes surveys
+  
+
 
 
 
