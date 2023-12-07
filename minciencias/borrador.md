@@ -31,5 +31,15 @@ Aliado sociedad civil
 Aliado empresa privada
 * Datasketch
 
+Areas Principales
+
+* Ciencia (5 áreas): Solar, Estelar, Exoplanetas, Galaxias, Cosmología
+* Ingeniería Inteligencia Artificial
+* Ingeniería de Software
+* Hardware
+* Apropiación Social del Conocimiento.
+* Administración.
+
+
 
 
