@@ -16,6 +16,7 @@ Aliados Académicos
 * Universidad Mariana (Pasto)
 * Universidad de los Llanos (Villavicencio)
 * Universidad de Córdoba (Monteria)
+* Universidad Tecnológica de Bolívar (Cartagena)
 
 Aliados Internacionales
 
