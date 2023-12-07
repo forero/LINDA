@@ -38,8 +38,8 @@ Areas Principales
 * Ingeniería ML/AI
 * Ingeniería de Software
 * Hardware
-* Apropiación Social del Conocimiento.
-* Administración.
+* Apropiación Social del Conocimiento / Comunicaciones
+* Administración
 
 Productos principales
 
